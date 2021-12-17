@@ -1,0 +1,81 @@
+Reg;Menu;Pelanggan;Karyawan;Stakeholder;Kelas
+U;Karaage Mentai;10;7;8;Tinggi
+S;Karaage Mentai;8;;;Tinggi
+T;Karaage Mentai;7;;;Tinggi
+B;Karaage Mentai;10;;;Tinggi
+U;Chicken Katsu Plain;2;10;2;Sedang
+S;Chicken Katsu Plain;8;;;Sedang
+T;Chicken Katsu Plain;5;;;Sedang
+B;Chicken Katsu Plain;3;;;Sedang
+U;Nasi Goreng Katsu;9;3;4;Sedang
+S;Nasi Goreng Katsu;1;;;Sedang
+T;Nasi Goreng Katsu;7;;;Sedang
+B;Nasi Goreng Katsu;4;;;Sedang
+U;Oyakodon;10;6;4;Sedang
+S;Oyakodon;6;;;Sedang
+T;Oyakodon;8;;;Sedang
+B;Oyakodon;2;;;Sedang
+U;Yakisoba;6;1;6;Sedang
+S;Yakisoba;2;;;Sedang
+T;Yakisoba;8;;;Sedang
+B;Yakisoba;10;;;Sedang
+U;Karaage Sambal Matah;8;2;3;Sedang
+S;Karaage Sambal Matah;2;;;Sedang
+T;Karaage Sambal Matah;3;;;Sedang
+B;Karaage Sambal Matah;8;;;Sedang
+U;Teriyaki;4;8;5;Sedang
+S;Teriyaki;5;;;Sedang
+T;Teriyaki;7;;;Sedang
+B;Teriyaki;2;;;Sedang
+U;Karaage Limau;7;9;8;Sedang
+S;Karaage Limau;6;;;Sedang
+T;Karaage Limau;9;;;Sedang
+B;Karaage Limau;1;;;Sedang
+U;Nasi Gila Katsu;6;10;10;Sedang
+S;Nasi Gila Katsu;4;;;Sedang
+T;Nasi Gila Katsu;3;;;Sedang
+B;Nasi Gila Katsu;7;;;Sedang
+U;Sapi Lada Hitam;9;8;7;Sedang
+S;Sapi Lada Hitam;2;;;Sedang
+T;Sapi Lada Hitam;2;;;Sedang
+B;Sapi Lada Hitam;3;;;Sedang
+U;Ayam Lada Hitam;1;8;5;Rendah
+S;Ayam Lada Hitam;3;;;Rendah
+T;Ayam Lada Hitam;2;;;Rendah
+B;Ayam Lada Hitam;2;;;Rendah
+U;Baby Cumi Sambal Matah;10;7;6;Sedang
+S;Baby Cumi Sambal Matah;4;;;Sedang
+T;Baby Cumi Sambal Matah;3;;;Sedang
+B;Baby Cumi Sambal Matah;2;;;Sedang
+U;Baby Cumi Mentai;6;4;5;Sedang
+S;Baby Cumi Mentai;2;;;Sedang
+T;Baby Cumi Mentai;2;;;Sedang
+B;Baby Cumi Mentai;5;;;Sedang
+U;Tempura;7;7;10;Sedang
+S;Tempura;1;;;Sedang
+T;Tempura;2;;;Sedang
+B;Tempura;3;;;Sedang
+U;Green Tea;7;4;4;Sedang
+S;Green Tea;10;;;Sedang
+T;Green Tea;3;;;Sedang
+B;Green Tea;4;;;Sedang
+U;Genmaicha;8;5;3;Tinggi
+S;Genmaicha;10;;;Tinggi
+T;Genmaicha;8;;;Tinggi
+B;Genmaicha;9;;;Tinggi
+U;Aojiru;7;1;6;Tinggi
+S;Aojiru;9;;;Tinggi
+T;Aojiru;6;;;Tinggi
+B;Aojiru;9;;;Tinggi
+U;Melon Soda;3;7;10;Rendah
+S;Melon Soda;1;;;Rendah
+T;Melon Soda;2;;;Rendah
+B;Melon Soda;1;;;Rendah
+U;Jeruk;8;3;6;Tinggi
+S;Jeruk;7;;;Tinggi
+T;Jeruk;8;;;Tinggi
+B;Jeruk;7;;;Tinggi
+U;Milk Tea;1;2;5;Sedang
+S;Milk Tea;2;;;Sedang
+T;Milk Tea;5;;;Sedang
+B;Milk Tea;10;;;Sedang
